@@ -1,2 +1,2 @@
 # Facebook_Data
-Retrieving the data from facebook page and converting the Malayalam language to English
+A facebook page had the ratings of TV shows. Inorder to extract the data of each week, the data is extracted. The values are in Indian Regional Language Malayalam. This needs to be converted and hence a user-defined module is imported.
